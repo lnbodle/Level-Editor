@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>test2</Name>
+  <EntityManager>
+    <entities>
+      <Entity xsi:type="Test">
+        <bounds>
+          <X>144</X>
+          <Y>128</Y>
+          <Width>64</Width>
+          <Height>16</Height>
+          <Location>
+            <X>144</X>
+            <Y>128</Y>
+          </Location>
+          <Size>
+            <X>64</X>
+            <Y>16</Y>
+          </Size>
+        </bounds>
+        <guiShow>false</guiShow>
+      </Entity>
+      <Entity xsi:type="Test">
+        <bounds>
+          <X>74</X>
+          <Y>192</Y>
+          <Width>100</Width>
+          <Height>100</Height>
+          <Location>
+            <X>74</X>
+            <Y>192</Y>
+          </Location>
+          <Size>
+            <X>100</X>
+            <Y>100</Y>
+          </Size>
+        </bounds>
+        <guiShow>false</guiShow>
+      </Entity>
+    </entities>
+  </EntityManager>
+</Scene>

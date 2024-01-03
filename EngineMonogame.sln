@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Engine", "PlatofrmerMonogame\Engine.csproj", "{FFB6EA2A-C849-43A6-94D3-22AE3469DB69}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Monogame.ImGuiNet", "MonoGame.ImGuiNet\Monogame.ImGuiNet.csproj", "{5AFE5390-71D9-4713-8EFC-817AAD6A988B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFB6EA2A-C849-43A6-94D3-22AE3469DB69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFB6EA2A-C849-43A6-94D3-22AE3469DB69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFB6EA2A-C849-43A6-94D3-22AE3469DB69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFB6EA2A-C849-43A6-94D3-22AE3469DB69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AFE5390-71D9-4713-8EFC-817AAD6A988B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AFE5390-71D9-4713-8EFC-817AAD6A988B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AFE5390-71D9-4713-8EFC-817AAD6A988B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AFE5390-71D9-4713-8EFC-817AAD6A988B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EFC63E4-8519-499D-AA92-A0AA420F4135}
+	EndGlobalSection
+EndGlobal
